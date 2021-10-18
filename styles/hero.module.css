@@ -1,0 +1,27 @@
+.hero {
+  width: 100%;
+  height: 90vh;
+  position: relative;
+}
+.hero_image {
+  position: relative;
+}
+.hero_container {
+  position: absolute;
+  top: 50%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.primary_title {
+  font-size: 4.3rem;
+  color: var(--text-color);
+  font-weight: 700;
+}
+.secondary_title {
+  font-weight: 400;
+  font-size: 2.2rem;
+  color: var(--text-color-light);
+  line-height: 130%;
+  margin: 1.1rem 0rem 2rem 0rem;
+}

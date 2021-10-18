@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Fitness",
+    "image": "/images/bisep-training-image.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bodybuilding",
+    "image": "/images/category-section-image1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "crossfit",
+    "image": "/images/legpress-image.jpg"
+  },
+  {
+    "id": 4,
+    "name": "cardio",
+    "image": "/images/category-section-imagw2.jpg"
+  }
+]

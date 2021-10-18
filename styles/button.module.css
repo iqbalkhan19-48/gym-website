@@ -1,0 +1,19 @@
+.button_round {
+  color: #fff;
+  background: var(--main-color);
+  text-transform: capitalize;
+  padding: 0.8rem 2rem;
+  border: 0;
+  font-size: 2rem;
+  cursor: pointer;
+  border-radius: 5rem;
+}
+.button_sharp {
+  color: #fff;
+  background: var(--main-color);
+  text-transform: capitalize;
+  padding: 0.8rem 2rem;
+  border: 0;
+  font-size: 2rem;
+  cursor: pointer;
+}

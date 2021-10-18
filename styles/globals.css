@@ -1,16 +1,38 @@
-html,
-body {
+*,
+*::before,
+*::after {
   padding: 0;
   margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+body {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: var(--background-color);
 }
-
+:root {
+  --main-color: rgb(227, 103, 12);
+  --text-color: #fff;
+  --text-color-light: rgb(192, 192, 192);
+  --background-color: rgb(10, 10, 10);
+  --box-color: #191a1e;
+  --shadow-color: rgba(197, 73, 12, 0.6);
+}
 a {
-  color: inherit;
   text-decoration: none;
 }
+li {
+  list-style: none;
+}
+.coomon_style {
+  margin-top: 7rem;
+}
 
-* {
-  box-sizing: border-box;
+@media (max-width: 780px) {
+  html {
+    font-size: 53%;
+  }
 }

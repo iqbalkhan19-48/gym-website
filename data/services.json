@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Weighlifting",
+    "icon": "",
+    "description": "Aenean gravida leo non lorem egesta tristque extin. Morbi at libero eleifend matie."
+  },
+  {
+    "id": 2,
+    "name": "Personal Trainer",
+    "icon": "",
+    "description": "Aenean gravida leo non lorem egesta tristque extin. Morbi at libero eleifend matie."
+  },
+  {
+    "id": 3,
+    "name": "Yoga and Pilates",
+    "icon": "",
+    "description": "Aenean gravida leo non lorem egesta tristque extin. Morbi at libero eleifend matie."
+  },
+  {
+    "id": 4,
+    "name": "Aerobics Class",
+    "icon": "",
+    "description": "Aenean gravida leo non lorem egesta tristque extin. Morbi at libero eleifend matie."
+  },
+  {
+    "id": 5,
+    "name": "Massage Class",
+    "icon": "",
+    "description": "Aenean gravida leo non lorem egesta tristque extin. Morbi at libero eleifend matie."
+  },
+  {
+    "id": 6,
+    "name": "Sauna Bath",
+    "icon": "",
+    "description": "Aenean gravida leo non lorem egesta tristque extin. Morbi at libero eleifend matie."
+  },
+  {
+    "id": 7,
+    "name": "Cardio Facility",
+    "description": "Aenean gravida leo non lorem egesta tristque extin. Morbi at libero eleifend matie."
+  },
+  {
+    "id": 8,
+    "name": "Hardcore Workout",
+    "icon": "",
+    "description": "Aenean gravida leo non lorem egesta tristque extin. Morbi at libero eleifend matie."
+  }
+]
